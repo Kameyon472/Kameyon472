@@ -2,45 +2,44 @@
 
 <h2>👨‍💻 CyberSecurity Certifications:</h2>
 
-- [Intoduction to IOTs](https://drive.google.com/file/d/1XOTCzB_q2hxmVEBrDz4oVjrrd6v6Kw22/view?usp=drive_link)
-- [Introduction to CyberSecurity](https://drive.google.com/file/d/1h04p9R2L6k22NqFoShfBj324n-Q817dY/view?usp=drive_link)
+- [Introduction to CyberSecurity](https://drive.google.com/file/d/1hWxwkDFHGDPuDBC4kp8KNbUcMciYaZYR/view?usp=drive_link)
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-
-- <b>Python tools</b>
-  - [Password generator](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
-  - [Port Scanner](https://drive.google.com/file/d/1Mkrt16CX1_NZkUiBgDrxvCXdnh_PSQhj/view?usp=drive_link)
-  - [Graphrical User Interface](https://drive.google.com/file/d/1GXgppwJ_I4w8N6fdgPS2YL2p5UYqWycU/view?usp=drive_link)
 
 - <b>👨‍💻 CyberSecurity Documents</b>
-  - [App Review](https://drive.google.com/file/d/1VJbr4kUzVcTV8OSlzkHwA7OER7SWl3Nt/view?usp=drive_link)
-  - [Routing Protocol Authentication](https://docs.google.com/document/d/1wItmgBuDNGz73uQvyex4x1QOs7pVCETJ/edit?usp=drive_link&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Networking Ports](https://drive.google.com/file/d/1UOVs4f8FnpnYWb4CkhNpuYh0g14cRCsP/view?usp=sharing)
-  - [WEB BROWSER](https://docs.google.com/document/d/1m5WQUNJIhxMTLP2JoKbNJuGcOjJAjs_6/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Types of Computer Networks ](https://docs.google.com/document/d/1G3tXPxzIpSC-AznnLJkRHmUu7mDflPgh/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Business Plan ](https://docs.google.com/document/d/1_odp4DXkpo3wiqLLQ-Lu9csxUX6K0Bwc/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Business Pitch](https://drive.google.com/file/d/1V6YXSuBmQ1x09-WNoFpPxuvyNp64iVGn/view?usp=sharing)
-  - [Incident Plan document](https://docs.google.com/document/d/1L-MkTDNh2HPHNFqq2O2iZDEMBJqMSLhg/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Managing Finances with a Budget](https://drive.google.com/file/d/1QjZktUEvOBf6HGsHiwU2b4RTKHftmBPv/view?usp=sharing)
-  - [Excel Budget](https://docs.google.com/spreadsheets/d/1uR2dCZf9kTjkjrXLc5w8VE5dCf95hG2U/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Introducting to Programming 2](https://docs.google.com/presentation/d/1RJ8GTxLN2KLMtr4m7Bv3Yrz6_TqeVAhi/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Web application security](https://docs.google.com/presentation/d/1oGfokfx3Es5QY3sOtldzNRnqU4Dfm-qg/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [SSLplus Security Risk management plan](https://docs.google.com/document/d/1tdE2B2rTRsElC3y_QfHXz0Vp_X8wWwij/edit?usp=sharing&ouid=102045988082020363545&rtpof=true&sd=true)
-  - [Social Engineering](https://drive.google.com/file/d/1klnxe7LxGQcRxKrnDiTUnefb22ph4MnI/view?usp=sharing)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - [Business Plan](https://drive.google.com/drive/folders/1ryEVjuG0ZkiniJH-KSNv-JfkvWyOecyc?usp=drive_link)
+  - [CCNA chapter 5-6 class assignment](https://drive.google.com/drive/folders/17G-Hc7lf1JGX_mf84oRwxL0mNxnmQO9A?usp=drive_link)
+  - [Commonly Used Ports](https://drive.google.com/drive/folders/1MojSLD_-6kRKpmLfiGcR6V33EhrQAlYK?usp=drive_link)
+  - [Create a GUI](https://drive.google.com/drive/folders/1c3FLBRzB-1-9nvIr79uECPhyZKKQ_wpg?usp=drive_link)
+  - [CyberSecurity Vocab](https://drive.google.com/drive/folders/1OH-hEKOV4xdeB__YQ-wWYIE3hq5aT4j1?usp=drive_link)
+  - [Digital Infastructure](https://drive.google.com/drive/folders/1jx3p8StIodCCvNb7QHIsOVU7i4LDpNYt?usp=drive_link)
+  - [Encrytion Tool](https://drive.google.com/drive/folders/1bd-IU-VS5jwPvWGzHb1N6HzPk-Lm-rwE?usp=drive_link)
+  - [Finances and Bubget](https://drive.google.com/drive/folders/1oMjealkkQ4xZGiOu9SEnjC1mqMFJxv7S?usp=drive_link)
+  - [Firewall Breach Scenario](https://drive.google.com/drive/folders/1qTezHfLRM6jh4JOYXYNflmE-mWotKS_c?usp=drive_link)
+  - [Firewalls](https://drive.google.com/drive/folders/1JAxtvuRxzkOl5vbSa46mIVVFwjNQcDQc?usp=drive_link)
+  - [Fundamental Concepts of Computer Networking](https://drive.google.com/drive/folders/1W5h2Q8wf6c4MoW3JPkbOmpd0CXVtX0Se?usp=drive_link)
+  - [History of the internet](https://drive.google.com/drive/folders/1yfje1vInWMyr4CzQSIf3nR4VPU0eBSE1?usp=drive_link)
+  - [Intro to Programing](https://drive.google.com/drive/folders/1o5eHjRl1uiCX2yLjBgAJ_eaH0QXlnmE3?usp=drive_link)
+  - [Intro to Python](https://drive.google.com/drive/folders/1qBEnYzFEXJ2I0qtZ24OmNsAJWaSBsIH4?usp=drive_link)
+  - [Intro to Programing 2](https://drive.google.com/drive/folders/16_zXO89whLLiVeTcKnqSqXYDfexr4n9S?usp=drive_link)
+  - [Logo Submission](https://drive.google.com/drive/folders/1JljfL6NzYd8MZQQhXVKmb358EhBmOE_v?usp=drive_link)
+  - [Network Security Monitoring and Managing Devices](https://drive.google.com/drive/folders/1e2s5HijvxsS1Z9Pw2saK2Ouh0vlvt1jh?usp=drive_link)
+  - [Network Security Policies Assignment](https://drive.google.com/drive/folders/1QWLk-eOMTHfCHU1IlZ6ogFkSmgeEZhw8?usp=drive_link)
+  - [Networking Presentation](https://drive.google.com/drive/folders/15FJYwx-fMPj1k6ifl4wMMwndkKKvaI-R?usp=drive_link)
+  - [Networking Quiz](https://drive.google.com/drive/folders/136avfslKbCihb_7-2N5MwqGfIF8mL-ST?usp=drive_link)
+  - [Password Generator](https://drive.google.com/drive/folders/1g-v9xn8TnaOxxccp8bmc7QCFYAWiSf4c?usp=drive_link)
+  - [Password Manager](https://drive.google.com/drive/folders/1BYWIfHNys5X8WDm2URHzAfXvWvvD7Sbc?usp=drive_link)
+  - [Password Strength Checker](https://drive.google.com/drive/folders/1Fzd5zFOmIPtHZfqqL2XnzFKFac6sQhGT?usp=drive_link)
+  - [Port Scanner](https://drive.google.com/drive/folders/1F8bl6Sk6fXtE1Xvya3oj-7hcvLO-n6TK?usp=drive_link)
+    [Helpdesk Support](https://drive.google.com/drive/folders/1Z52OyY8HEQOuZYROMFN3UGYphUROisSm?usp=drive_link)
+    [Python Intro](https://drive.google.com/drive/folders/1yYyC0CNCSKBLS8wHX73U24FzX6cOJEIc?usp=drive_link)
+    [Quiz](https://drive.google.com/drive/folders/1YN9yrVkgBZzUxHJHFFS3Ag68RDBEAyS2?usp=drive_link)
+    [Security Incident Response Plan](https://drive.google.com/drive/folders/19WFkjcYMxTOtiwxcWONkvix9tm6HopUE?usp=drive_link)
+    [Software Application Review](https://drive.google.com/drive/folders/1vNplPUttw-x4rKrVLUXuA4XAVg1pKXe_?usp=drive_link)
+    [Vision Board](https://drive.google.com/drive/folders/1IStMIM-cFKqEpFTkqTytPoAmBZjdPqZu?usp=drive_link)
+    [Web Application Security](https://drive.google.com/drive/folders/1Ylx27KIM7bKiOpkvMVLWv584o0RzTOjM?usp=drive_link)
+    [Web Browser](https://drive.google.com/drive/folders/1DWdzXYTZxaN-GGJMoqtTXTbaNRe_R7-M?usp=drive_link)
+    
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitte…
